@@ -1,6 +1,11 @@
-# "Naziv aplikacije"
+# "MySpendings"
 
-Kratki opis aplikacije ide ovdje. Primjer: Web aplikacija za praćenje novih filmova i serija.
+Aplikacija za vođenje dnevne potrošnje novaca.
+
+Grupa korisnika: sve osobe koje žele na jednom mjestu imati pregled iznosa i razloga potrošnje vlastitog novca.
+
+Funkcionalnosti: Korisnik može unijeti iznos potrošenog novca, datum potrošnje,  odabrati kategoriju (hrana, računi, odjeća itd.) i po izboru dodati komentar. Uneseni podaci će se svrstati po tablicama prema kategoriji i određenom vremenskom razdoblju te će se za sve tablice računati ukupan iznos potrošnje. Korisnik će također moći usporediti ukupan iznos potrošnje između tablica ili po volji unijeti iznos te ga usporediti s određenom tablicom.
+
 
 ### Autor
 Nikolina Krce
