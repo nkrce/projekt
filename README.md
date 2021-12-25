@@ -1,19 +1,22 @@
-# myspendings
+# "Naziv aplikacije"
 
-## Project setup
-```
-npm install
-```
+Kratki opis aplikacije ide ovdje. Primjer: Web aplikacija za praćenje novih filmova i serija.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Autor
+Nikolina Krce
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Prototip aplikacije
+
+Figma: https://figma.com/...
+
+### Javni link na aplikaciju
+
+Web: https://netlify... (dodat će se kasnije)
+
+### Organizacija
+
+[Sveučilište Jurja Dobrile u Puli](http://www.unipu.hr/)  
+[Fakultet informatike u Puli](https://fipu.unipu.hr/)  
+Programsko inženjerstvo, ak.god. 2021./2022.  
+Mentor: **Nikola Tanković** (https://fipu.unipu.hr/fipu/nikola.tankovic, nikola.tankovic@unipu.hr)
